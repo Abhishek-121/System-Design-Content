@@ -1,5 +1,6 @@
 # Awesome System Design Resources
 This repository contains System Design resources which are useful to learn concepts and prepare for interviews.
+Will add the Resource for Low Level Design(LLD) here as well soon.
 
 ## System Design Fundamentals
 
