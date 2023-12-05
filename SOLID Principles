@@ -22,9 +22,6 @@ I -- Interface Segment Principle -- Interface should be such, that client should
 D -- Dependency Inversion Principle -- Class should depend on Interface rather than concrete classes 
 
 
-
-
-
 Correct Way 
 
 Class MacBook{
